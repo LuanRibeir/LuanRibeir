@@ -7,7 +7,7 @@
 <details align="center">
     <br>
     <p align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=luanRibeir&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&theme=dark&icon_color=2666CF&bg_color=171717"></img>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanRibeir&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&theme=dark&icon_color=2666CF&bg_color=171717"></img>
     </p>
 <br>
 </details>
